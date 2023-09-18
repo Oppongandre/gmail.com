@@ -1,0 +1,6 @@
+﻿NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION,
+"oppongandre29","Storage account","myresourcegroup","East US 2","Azure subscription 1"
+"oppongandre43","SQL server","myresourcegroup","East US 2","Azure subscription 1"
+"oppongandre43","Storage account","myresourcegroup","East US","Azure subscription 1"
+"oppongandre63","Azure Cosmos DB account","myresourcegroup","East US 2","Azure subscription 1"
+"vault-llccw4w3","Recovery Services vault","myresourcegroup","East US","Azure subscription 1"
